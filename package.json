@@ -1,0 +1,17 @@
+{
+  "name": "my2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "url-parser": "git+https://github.com/shootermv/url-parser.git"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
